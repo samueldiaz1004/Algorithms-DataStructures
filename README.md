@@ -37,9 +37,14 @@ Run the executable created
 * [CoinChange](https://www.geeksforgeeks.org/understanding-the-coin-change-problem-with-dynamic-programming/)
   * Implementation and comparison of the dynamic and greedy algorithm to solve the coin change problem.
 * Compilation1
- * Text
+  * Substring search between two strings using the Knuth-Morris-Pratt algorithm.
+  * Find the longest palindrome in a string using the Manacher algorithm.
+  * Use dynamic programming to find the longest common substring between a pair of strings.
 * Compilation2
- * Text
+  * Find the minimum spanning tree in a completly connected graph without cicles using Prim's algorithm.
+  * An approach to solve the traveling salesman problem using the Repetitve Nearest Neighbor technique.
+  * Calculate the max flux from a starting to an ending node in a directed graph via the Ford-Fulkerson algorithm.
+  * Map a collection of points in a 2d space and generate a Voronoi graph to determine the closest point to a new entry. 
 * [FaceTriangulation](https://blog.devgenius.io/voronoi-graph-and-delaunay-triangulation-visually-explained-1df842640c55)
   * Application to map a subjects face from a face detection model and then represent using Voronoi graph and Delaunay triangulation.
 * [Graph](https://www.geeksforgeeks.org/graph-and-its-representations/)
