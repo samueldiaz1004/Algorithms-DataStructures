@@ -1,0 +1,6 @@
+0
+20
+50
+
+Output:
+There are no coin denominations

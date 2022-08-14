@@ -1,0 +1,9 @@
+3
+1
+2
+5
+20
+10
+
+Output:
+Underpayment

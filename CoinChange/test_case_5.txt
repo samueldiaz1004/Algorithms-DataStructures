@@ -1,0 +1,14 @@
+3 
+4
+10
+20
+2
+7
+
+Output:
+
+Dynamic Programming: 
+Change is not exact
+
+Greedy Programming: 
+Change is not exact

@@ -1,0 +1,19 @@
+3
+0 2 5
+-1 0 20
+-1 -1 0
+
+Output:
+
+Dijkstra: 
+node 1 to node 2: 2
+node 1 to node 3: 5
+node 2 to node 1: -1
+node 2 to node 3: 20
+node 3 to node 1: -1
+node 3 to node 2: -1
+
+Floyd: 
+0 2 5 
+-1 0 20 
+-1 -1 0 

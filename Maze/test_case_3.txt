@@ -1,0 +1,16 @@
+6
+6
+1 0 0 0 0 0
+1 0 0 0 0 0
+1 1 1 1 0 0
+0 0 0 1 0 0
+0 0 0 0 0 0
+0 1 1 1 1 1
+
+Output:
+
+Backtracking:
+There is no direct path to the exit
+
+Branch and bound:
+There is no direct path to the exit
