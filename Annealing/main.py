@@ -92,14 +92,10 @@ bestPath = generateRandomPath()
 bestCost = calculateTSP(bestPath, distances)
 
 # Parametros para controlar el recocido simulado
-# temperature = 2500
-# minTemp = 0.001
-# k = 0.999
-# iterations = 2500
-temperature = 100
-minTemp = 0.1
-k = 0.9
-iterations = 1000
+temperature = 2500
+minTemp = 0.001
+k = 0.999
+iterations = 2500
 
 costArr = [bestCost]
 tempArr = [temperature]
