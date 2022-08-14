@@ -5,6 +5,27 @@ Algorithms and Data Structures I have coded in some of my college degree courses
 <img src="https://user-images.githubusercontent.com/71342016/184548120-e11c03ae-8122-41dc-9eac-cdacb2105569.png" width="700px" />
 </p>
 
+## How to use
+
+To clone and run this projects at least you need `Git`, a C++ compiler like `g++`, and `Python3` with `pip` installed on your computer.
+
+Clone this repository
+```
+https://github.com/samueldiaz1004/Algorithms-DataStructures.git
+```
+Change directory
+```
+cd LinkedList
+```
+Compile all the `cpp` files in the directory
+```
+g++ -o linkedList.exe MyLinkedList.cpp main.cpp 
+```
+Run the executable created
+```
+./linkedList.exe
+```
+
 ## Table of contents
 
 * [Annealing](https://www.geeksforgeeks.org/simulated-annealing/)
@@ -15,8 +36,10 @@ Algorithms and Data Structures I have coded in some of my college degree courses
   * A solution of the 0-1 Knapsack problem using dinamic programming.
 * [CoinChange](https://www.geeksforgeeks.org/understanding-the-coin-change-problem-with-dynamic-programming/)
   * Implementation and comparison of the dynamic and greedy algorithm to solve the coin change problem.
-* Compilation 1
-* Compilation 2
+* Compilation1
+ * Text
+* Compilation2
+ * Text
 * [FaceTriangulation](https://blog.devgenius.io/voronoi-graph-and-delaunay-triangulation-visually-explained-1df842640c55)
   * Application to map a subjects face from a face detection model and then represent using Voronoi graph and Delaunay triangulation.
 * [Graph](https://www.geeksforgeeks.org/graph-and-its-representations/)
@@ -33,3 +56,6 @@ Algorithms and Data Structures I have coded in some of my college degree courses
   * Implementation and comparison of the Dijkstra and Floyd algorithm to find the shortest path between vertices.
 * [Sort&Search](https://msatechnosoft.in/blog/searching-sorting-data-structure-algorithms/)
   * Implementation of some of the most common searching (lineal and binary) and sorting (insertion, bubble and merge) algorithms.
+  
+## Troubleshooting
+Some projects like `FaceTriangulation` and `Compilation2` require the installation of extra libraries, notably [CGAL](https://www.cgal.org/). You can install it via a C/C++ package manager and added the necesary libraries to the project using [Cmake](https://cmake.org/) or [Visual Studio](https://www.youtube.com/watch?v=FeBzSYiWkEU)  (recommended for Windows users).
